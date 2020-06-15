@@ -1,0 +1,10 @@
+C:\Users\18036729\Desktop\31_PA09_Ivan\31_Ivan_PA09\obj\Debug\31_Ivan_PA09.csprojAssemblyReference.cache
+C:\Users\18036729\Desktop\31_PA09_Ivan\31_Ivan_PA09\obj\Debug\_31_Ivan_PA09.Form1.resources
+C:\Users\18036729\Desktop\31_PA09_Ivan\31_Ivan_PA09\obj\Debug\_31_Ivan_PA09.Properties.Resources.resources
+C:\Users\18036729\Desktop\31_PA09_Ivan\31_Ivan_PA09\obj\Debug\31_Ivan_PA09.csproj.GenerateResource.cache
+C:\Users\18036729\Desktop\31_PA09_Ivan\31_Ivan_PA09\obj\Debug\31_Ivan_PA09.csproj.CoreCompileInputs.cache
+C:\Users\18036729\Desktop\31_PA09_Ivan\31_Ivan_PA09\bin\Debug\31_Ivan_PA09.exe.config
+C:\Users\18036729\Desktop\31_PA09_Ivan\31_Ivan_PA09\bin\Debug\31_Ivan_PA09.exe
+C:\Users\18036729\Desktop\31_PA09_Ivan\31_Ivan_PA09\bin\Debug\31_Ivan_PA09.pdb
+C:\Users\18036729\Desktop\31_PA09_Ivan\31_Ivan_PA09\obj\Debug\31_Ivan_PA09.exe
+C:\Users\18036729\Desktop\31_PA09_Ivan\31_Ivan_PA09\obj\Debug\31_Ivan_PA09.pdb
